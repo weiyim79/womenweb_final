@@ -129,10 +129,10 @@ p{
     position: fixed;
     bottom: 20px;
     right:20px;
-    background-color:rgba(75, 122, 210, 0.477);
+    background-color:rgba(153, 185, 244, 0.477);
     color:black;
     padding:10px;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 .thanks{
     margin-top: 5%;
@@ -219,6 +219,9 @@ div h2{
     border: 3px dashed cornsilk;
 }
 
+.fas fa-arrow-up{
+    align-items: center;
+}
 
 @media screen and (min-width: 780px){
 
